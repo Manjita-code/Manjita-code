@@ -1,6 +1,6 @@
 # <h1 align="center">Hi 👋, I'm Manjita</h1>
 
-<h3 align="center">Backend Developer | MCA (Software Engineering) Student | AI & ML Enthusiast</h3>
+<h3 align="center">Backend Developer | MCA (Software Engineering) Student | AI & ML </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Node.js+%7C+Express.js+%7C+MongoDB;System+Design+Enthusiast;Redis+%7C+REST+APIs+%7C+Scalable+Systems;450%2B+DSA+Problems+Solved" />
