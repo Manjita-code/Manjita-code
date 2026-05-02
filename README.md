@@ -1,16 +1,27 @@
+# <h1 align="center">Hi 👋, I'm Manjita</h1>
 
-# Hi there 👋, I'm Manjita
+<h3 align="center">Backend Developer | MCA (Software Engineering) Student | AI & ML Enthusiast</h3>
 
-### MCA (Software Engineering) Student | ML & AI Enthusiast | Problem Solver
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Node.js+%7C+Express.js+%7C+MongoDB;System+Design+Enthusiast;Redis+%7C+REST+APIs+%7C+Scalable+Systems;450%2B+DSA+Problems+Solved" />
+</p>
 
-Passionate about **Machine Learning, AI Systems, and Software Development**, with hands-on experience in building ML projects, backend APIs, and solving real-world coding problems.
+---
 
-* 🎓 MCA (Software Engineering) Student
-* 🤖 Interested in AI, Machine Learning & Backend Development
-* 💻 Solved **400+ DSA Problems**
-* 📊 Built ML projects with **85–88% accuracy**
-* 🚀 Exploring Full Stack Development & Scalable Systems
-* 🌱 Currently learning **Advanced Backend + System Design**
+## 🌸 About Me
+
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+* 🎓 MCA (Software Engineering) Student at GGSIPU
+* 💼 Backend Developer Intern at Faircent
+* 🚀 Passionate about scalable backend systems & distributed architecture
+* 🔐 Strong in Authentication, JWT, Redis Caching & API Optimization
+* 💻 Solved **450+ DSA Problems** on LeetCode
+* 📊 Built ML + Backend integrated real-world projects
+* 🏆 AIR under **800 in NIMCET**
+* ⚡ Fun fact: I optimize queries faster after coffee ☕
+
+(Updated from resume )
 
 ---
 
@@ -18,76 +29,137 @@ Passionate about **Machine Learning, AI Systems, and Software Development**, wit
 
 ### 💻 Programming Languages
 
-* C++
-* Java
-* JavaScript
-* Python
-* SQL
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,sql" />
+</p>
 
-### 🌐 Web Development
+### 🌐 Backend Development
 
-* HTML
-* CSS
-* JavaScript
-* Node.js
-* Express.js
-* REST APIs
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" />
+</p>
 
-### 🛢 Database
+### 🛢 Databases & Caching
 
-* MongoDB
-* MySQL
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
+</p>
 
-### 🤖 Machine Learning & Data Science
+### 🤖 ML + APIs
 
-* Pandas
-* NumPy
-* Matplotlib
-* Scikit-learn
-* Jupyter Notebook
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-### 🛠 Tools & Platforms
+`CNN` • `Flask APIs` • `REST APIs` • `Model Deployment`
 
-* Git
-* GitHub
-* Postman
-* VS Code
+### 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## 💼 Experience
+
+### 🔹 Backend Developer Intern — Faircent
+
+**Apr 2025 – Present**
+
+* Engineered and deployed **10+ APIs**
+* Reduced API latency by **30–40%**
+* Improved performance using **Redis caching**
+* Optimized **MongoDB + MySQL queries**
+* Built scalable backend services using **Node.js + Express.js**
+
+### 🔹 IBM Data Analyst Internship Programme
+
+**Jul 2025 – Sept 2025**
+
+* Developed Python automation scripts
+* Wrote optimized SQL queries
+* Automated reporting pipelines
+* Improved backend workflow consistency
+
+(From resume )
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 Online Retail EDA
+### 🔹 Scalable URL Shortener
 
-Performed Exploratory Data Analysis (EDA) on an online retail dataset using **Pandas, NumPy, and Matplotlib** to extract insights and business trends.
+**Node.js + MongoDB + Redis**
 
-### 🔹 Secure Task Management API
+* High-performance URL shortening system
+* Reduced latency by **35%**
+* Built for concurrent requests & scalability
 
-Built a secure backend API with authentication, authorization, and CRUD operations for task management using **Node.js, Express.js, and MongoDB**.
+---
 
-### 🔹 TimeBound Editor
+### 🔹 Secure Task Management System
 
-A productivity-focused editor where users can make changes within a fixed **1-minute time limit**, improving focus and task efficiency.
+**Node.js + Express + MongoDB + JWT + Redis**
 
-### 🔹 Portfolio Website
+* JWT Authentication + Refresh Tokens
+* OTP Verification
+* Role-Based Authorization
+* Redis Token Blacklisting
+* Pagination + Filtering + CRUD APIs
 
-Designed and developed a personal portfolio website using **HTML, CSS, and JavaScript**.
+---
+
+### 🔹 ML-Based Acne Detection API
+
+**Flask + CNN**
+
+* Real-time prediction APIs
+* CNN model integration with backend
+* Improved inference performance
+
+(Projects from resume )
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manjita-code\&show_icons=true\&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Manjita-code&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manjita-code\&layout=compact\&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjita-code&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Manjita-code&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-* GitHub: https://github.com/Manjita-code
-* LinkedIn: Add Your LinkedIn Link Here
+<p align="left">
+
+<a href="https://github.com/Manjita-code" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+
+<a href="YOUR_LINKEDIN_LINK" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
+<a href="https://leetcode.com/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=leetcode" height="40" />
+</a>
+
+</p>
 
 ---
 
-### ✨ “Code. Learn. Build. Repeat.”
+<p align="center">
+✨ <b>Build scalable systems. Solve real problems. Keep growing.</b> ✨
+</p>
