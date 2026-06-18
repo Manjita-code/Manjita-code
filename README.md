@@ -21,7 +21,6 @@
 * 🏆 AIR under **800 in NIMCET**
 * ⚡ Fun fact: I optimize queries faster after coffee ☕
 
-(Updated from resume )
 
 ---
 
