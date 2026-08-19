@@ -64,7 +64,7 @@
 
 ### 🔹 Backend Developer Intern — Faircent
 
-**Apr 2025 – Present**
+**Apr 2026 – june 2026**
 
 * Engineered and deployed **10+ APIs**
 * Reduced API latency by **30–40%**
